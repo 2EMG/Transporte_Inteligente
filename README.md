@@ -27,3 +27,6 @@ Facilitar el acceso eficiente al transporte público con información predictiva
 **Visión:**
 
 Ser la solución global de referencia para la gestión inteligente del transporte urbano, incluyendo todo tipo de movilidad ciudadana.
+
+![image](https://github.com/user-attachments/assets/f8968e31-dc5c-43a0-9034-b467b50cb6ac)
+
